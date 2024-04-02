@@ -1,0 +1,62 @@
+{
+  "allvideos": [
+    {
+      "id": "01",
+      "caption": "Loki",
+      "url": "https://thereelbits.com/wp-content/uploads/2021/07/loki-poster.jpeg",
+      "link": "https://www.youtube.com/embed/dug56u8NN7g"
+    }
+  ],
+  "history": [],
+  "category": [
+    {
+      "categoryName": "amit",
+      "allvideos": [
+        {
+          "id": "01",
+          "caption": "Loki",
+          "url": "https://th.bing.com/th/id/R.7888c7e18c5f7502dc51a086f35713cb?rik=mMePqrO4n0jj%2bg&riu=http%3a%2f%2fwww.impawards.com%2ftv%2fposters%2floki_ver11.jpg&ehk=T%2bqBb8QFwymlsnKE1RiqHa4VQS38SOIXS214vnrE3C8%3d&risl=&pid=ImgRaw&r=0",
+          "link": "https://www.youtube.com/embed/dug56u8NN7g"
+        },
+        {
+          "id": "01",
+          "caption": "Loki",
+          "url": "https://th.bing.com/th/id/R.7888c7e18c5f7502dc51a086f35713cb?rik=mMePqrO4n0jj%2bg&riu=http%3a%2f%2fwww.impawards.com%2ftv%2fposters%2floki_ver11.jpg&ehk=T%2bqBb8QFwymlsnKE1RiqHa4VQS38SOIXS214vnrE3C8%3d&risl=&pid=ImgRaw&r=0",
+          "link": "https://www.youtube.com/embed/dug56u8NN7g"
+        },
+        {
+          "id": "01",
+          "caption": "Loki",
+          "url": "https://th.bing.com/th/id/R.7888c7e18c5f7502dc51a086f35713cb?rik=mMePqrO4n0jj%2bg&riu=http%3a%2f%2fwww.impawards.com%2ftv%2fposters%2floki_ver11.jpg&ehk=T%2bqBb8QFwymlsnKE1RiqHa4VQS38SOIXS214vnrE3C8%3d&risl=&pid=ImgRaw&r=0",
+          "link": "https://www.youtube.com/embed/dug56u8NN7g"
+        },
+        null,
+        {
+          "id": "01",
+          "caption": "Loki",
+          "url": "https://thereelbits.com/wp-content/uploads/2021/07/loki-poster.jpeg",
+          "link": "https://www.youtube.com/embed/dug56u8NN7g"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "alba",
+      "allvideos": [
+        {
+          "id": "01",
+          "caption": "Loki",
+          "url": "https://th.bing.com/th/id/R.7888c7e18c5f7502dc51a086f35713cb?rik=mMePqrO4n0jj%2bg&riu=http%3a%2f%2fwww.impawards.com%2ftv%2fposters%2floki_ver11.jpg&ehk=T%2bqBb8QFwymlsnKE1RiqHa4VQS38SOIXS214vnrE3C8%3d&risl=&pid=ImgRaw&r=0",
+          "link": "https://www.youtube.com/embed/dug56u8NN7g"
+        },
+        {
+          "id": "01",
+          "caption": "Loki",
+          "url": "https://thereelbits.com/wp-content/uploads/2021/07/loki-poster.jpeg",
+          "link": "https://www.youtube.com/embed/dug56u8NN7g"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
